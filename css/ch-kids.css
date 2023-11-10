@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "CH Kids";
+  src: url("../fonts/Playground.eot");
+  src: url("../fonts/Playground.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Playground.woff2") format("woff2"),
+    url("../fonts/Playground.woff") format("woff"),
+    url("../fonts/Playground.ttf") format("truetype"),
+    url("../fonts/Playground.svg#CH Kids") format("svg");
+}

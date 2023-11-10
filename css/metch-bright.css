@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Metch Bright";
+  src: url("../fonts/Metch-Bright.eot");
+  src: url("../fonts/Metch-Bright.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Metch-Bright.woff2") format("woff2"),
+    url("../fonts/Metch-Bright.woff") format("woff"),
+    url("../fonts/Metch-Bright.ttf") format("truetype"),
+    url("../fonts/Metch-Bright.svg#Metch Bright") format("svg");
+}
